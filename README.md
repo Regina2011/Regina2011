@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and Stats,SQL,ML,Deep Learning
 - 💞️ I’m looking to collaborate on Data Science hands on experience
+- 💞️ I'm currently doing internship with Flip Robo Technologies...
 - 📫 How to reach me regs.george@gmail.com
 
 <!---
